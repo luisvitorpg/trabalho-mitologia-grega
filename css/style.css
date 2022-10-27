@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Mono&display=swap');
+.resp1 {
+    width: 300px;
+    height: 300px;
+    background-color: aquamarine;
+}
+.resp2 {
+    width: 300px;
+    height: 300px;
+    background-color: cornflowerblue;
+}
+body {
+    background-color: cadetblue;
+    font-family: 'Roboto Mono', monospace;
+}
